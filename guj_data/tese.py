@@ -15,9 +15,8 @@ os.system(cmd)
 cmd = "tesseract 1.png 1_out -l guj"
 os.system(cmd)
 
-cmd = "tesseract 2.png 1_out -l guj"
+cmd = "tesseract 2.png 2_out -l guj"
 os.system(cmd)
 
-cmd = "tesseract 3.png 1_out -l guj"
+cmd = "tesseract 3.png 4_out -l guj"
 os.system(cmd)
-
